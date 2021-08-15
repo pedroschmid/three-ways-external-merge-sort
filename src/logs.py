@@ -4,3 +4,5 @@ def print_success(message):
 def print_error(message):
     print(f'\033[91m [ERROR]: {message} \033[0m')
 
+def print_result(message):
+    print(f'\033[94m [RESULT]: {message} \033[0m')
