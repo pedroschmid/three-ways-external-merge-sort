@@ -1,6 +1,5 @@
 from flags import default_flags
 from files import open_array_file, write_array_into_file, write_dictionary_into_file
-from logs import print_result
 from sorts import merge_sort
 
 def main():
