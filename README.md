@@ -1,4 +1,4 @@
-# Three-way external merge sort
+# Three-ways external merge sort
 
 - Internal memory of 3 records
 - Number of auxiliary tapes: 6 tapes
